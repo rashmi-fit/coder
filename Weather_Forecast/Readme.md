@@ -5,4 +5,3 @@
 Installation of different dependencies
 
  - pip install numpy
- - 

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="RM- basic python programming as a newbie">
-      <change afterPath="$PROJECT_DIR$/Weather_Forecast/city_temperature.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="RM- Adding testdata file for weather forecast">
       <change beforePath="$PROJECT_DIR$/Weather_Forecast/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_Forecast/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weather_Forecast/regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_Forecast/regression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641574505012</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="RM- Adding testdata file for weather forecast">
+      <created>1641581278615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641581278615</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +217,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="RM- folder structure restructuring" />
     <MESSAGE value="RM- basic python programming as a newbie" />
-    <option name="LAST_COMMIT_MESSAGE" value="RM- basic python programming as a newbie" />
+    <MESSAGE value="RM- Adding testdata file for weather forecast" />
+    <option name="LAST_COMMIT_MESSAGE" value="RM- Adding testdata file for weather forecast" />
   </component>
 </project>
