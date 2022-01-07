@@ -1,1 +1,3 @@
- Problem statement : Forecast maximum temperature using linear regression (relationship between max and min temp)
+ Problem statement : Forecast maximum temperature using linear regression (relationship between max and min temperature)
+ * IDE : pycharm
+ * Test-data File name: city_temperature
