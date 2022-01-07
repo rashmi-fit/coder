@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="RM- basic python programming as a newbie">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather_Forecast/city_temperature.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Forecast/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_Forecast/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weather_Forecast/regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_Forecast/regression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641574362212</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RM- basic python programming as a newbie">
+      <created>1641574505012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641574505012</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

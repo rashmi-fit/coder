@@ -1,4 +1,4 @@
-# Forecast maximum temperature using linear regression (relationship betweeen max and min temp)
+# Forecast maximum temperature using linear regression (relationship between max and min temp)
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn import metrics
 
-dataset =  pd.read_csv('city_temperature.csv') #  put the path of the file here
+dataset =  pd.read_csv('/Users/rmn7591/Documents/Repositories/coder/Weather_Forecast/city_temperature.csv') #  put the path of the file here
 print(dataset.shape)
 print(dataset.describe())
 
