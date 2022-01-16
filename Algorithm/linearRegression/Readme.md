@@ -1,5 +1,5 @@
 Problem statement:
-- Predict the prices of homes having different areas mentioned in the homeprice.csv file
+- Predict the prices of homes having different areas mentioned in the home_price.csv file
 
 Analysis
 - Data set is in homeprice.csv file
