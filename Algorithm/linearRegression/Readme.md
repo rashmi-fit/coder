@@ -4,6 +4,7 @@ Problem statement:
 Analysis
 - Data set is in homeprice.csv file
 - A scatterplot has been drawn to understand the plot points
+- Price= m*area + b
 - y=mx(gradient)+b(intercept)
 - One predicted price has been calculated
 - Multiple prediction using a linear regression model has been done and saved in a separate file
