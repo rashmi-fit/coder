@@ -3,6 +3,7 @@ Problem statement
 Given canada_percapital_income.csv retrieved from keggle
 
 Analysis:
+- This is a simple linear regression model using one variable
 - Imported the necessary libraries
 - Read the csv file
 - Verify if any null values exist
