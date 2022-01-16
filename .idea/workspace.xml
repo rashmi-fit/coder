@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="RM- Adding testdata file for weather forecast">
-      <change beforePath="$PROJECT_DIR$/Weather_Forecast/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_Forecast/Readme.md" afterDir="false" />
+    <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="RM- modification in readme file and spelling mistake correction">
+      <change afterPath="$PROJECT_DIR$/Algorithm/.ipynb_checkpoints/homeprice-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/classificationalgorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/decisiontree_titanic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/fruits_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/homeprice.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/linearRegression/area.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/linearRegression/home_price.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/linearRegression/homeprice.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/prediction.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,8 +47,8 @@
       <recent name="$PROJECT_DIR$/pythonBasics/data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.regression">
-    <configuration name="addressrecord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.decisiontree_titanic">
+    <configuration name="classificationalgorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasics/addressrecord.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/classificationalgorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="decisiontree_titanic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBasics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasics/area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/decisiontree_titanic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionary_start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="coder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasics/dictionary_start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBasics/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.decisiontree_titanic" />
+        <item itemvalue="Python.classificationalgorithm" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.regression" />
         <item itemvalue="Python.monthly_expense" />
-        <item itemvalue="Python.dictionary_start" />
-        <item itemvalue="Python.area" />
-        <item itemvalue="Python.addressrecord" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641581278615</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="RM- modification in readme file and spelling mistake correction">
+      <created>1641581346939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641581346939</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +234,7 @@
     <MESSAGE value="RM- folder structure restructuring" />
     <MESSAGE value="RM- basic python programming as a newbie" />
     <MESSAGE value="RM- Adding testdata file for weather forecast" />
-    <option name="LAST_COMMIT_MESSAGE" value="RM- Adding testdata file for weather forecast" />
+    <MESSAGE value="RM- modification in readme file and spelling mistake correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="RM- modification in readme file and spelling mistake correction" />
   </component>
 </project>
