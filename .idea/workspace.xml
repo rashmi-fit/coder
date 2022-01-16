@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="RM- modification in readme file and spelling mistake correction">
-      <change afterPath="$PROJECT_DIR$/Algorithm/.ipynb_checkpoints/homeprice-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/classificationalgorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/decisiontree_titanic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/fruits_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/homeprice.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/linearRegression/area.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/linearRegression/home_price.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/linearRegression/homeprice.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/prediction.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="RM- homeprice prediction using linear regression model">
+      <change afterPath="$PROJECT_DIR$/Algorithm/.ipynb_checkpoints/canada_capita_income-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/canada_percapital_income/canada_capita_income.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/canada_percapital_income/canada_per_capita_income.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/homeprice.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641581346939</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="RM- homeprice prediction using linear regression model">
+      <created>1642319229483</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642319229483</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +236,7 @@
     <MESSAGE value="RM- basic python programming as a newbie" />
     <MESSAGE value="RM- Adding testdata file for weather forecast" />
     <MESSAGE value="RM- modification in readme file and spelling mistake correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="RM- modification in readme file and spelling mistake correction" />
+    <MESSAGE value="RM- homeprice prediction using linear regression model" />
+    <option name="LAST_COMMIT_MESSAGE" value="RM- homeprice prediction using linear regression model" />
   </component>
 </project>
