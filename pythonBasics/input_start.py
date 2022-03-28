@@ -1,8 +1,8 @@
-indian=["samosa","puri","dal","naan"]
-chinese=["egg  role","pot sticker","friedrice"]
-italian=["pizza","pasta","risotto"]
+indian = ["samosa", "puri", "dal", "naan"]
+chinese = ["egg  role", "pot sticker", "friedrice"]
+italian = ["pizza", "pasta", "risotto"]
 
-dish=input("enter a dish name")
+dish = input("enter a dish name")
 if dish in indian:
     print("indian")
 elif dish in italian:

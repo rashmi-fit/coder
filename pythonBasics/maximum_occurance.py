@@ -37,5 +37,6 @@ with open('/Users/rmn7591/PycharmProjects/Practice/data/poet.txt', 'r') as f:
 '''
 import re
 from collections import Counter
-x= Counter(re.findall('\w+', open("/Users/rmn7591/PycharmProjects/Practice/data/poet.txt").read().lower()))
+x = Counter(re.findall(
+    '\w+', open("/Users/rmn7591/PycharmProjects/Practice/data/poet.txt").read().lower()))
 print(x.most_common(5))  # it gives first 5 highest word

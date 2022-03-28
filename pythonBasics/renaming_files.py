@@ -1,2 +1,2 @@
 import os
-os.rename("renaming_test.txt","rename.txt")
+os.rename("renaming_test.txt", "rename.txt")

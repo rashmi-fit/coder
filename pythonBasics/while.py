@@ -6,6 +6,5 @@ while(starter<10):
     starter = starter+1
     
     '''
- while True:
-     print("hi")
-     
+while True:
+    print("hi")
