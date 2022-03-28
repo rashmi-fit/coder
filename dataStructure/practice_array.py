@@ -14,18 +14,18 @@ Using this find out,
    Do that with one line of code.
 5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
 '''
-heros=['spider man','thor','hulk','iron man','captain america']
+heros = ['spider man', 'thor', 'hulk', 'iron man', 'captain america']
 
 print("Length of the list", len(heros))
 
-print(" Add 'black panther' at the end of this list", heros.append("black panther"))
+print(" Add 'black panther' at the end of this list",
+      heros.append("black panther"))
 
 print(heros)
 heros.remove("black panther")
-heros.insert(3,"black panther")
+heros.insert(3, "black panther")
 print(heros)
-heros[1:3]=["doctor strange"]
+heros[1:3] = ["doctor strange"]
 print(heros)
 heros.sort()
 print(heros)
-
