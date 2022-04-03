@@ -16,3 +16,5 @@ if(number == rev_number):
     print(number, "this is a palindrome number")
 else:
     print(number, "this is not palindrome number")
+
+    number1 = int(input("enter a a number"))
