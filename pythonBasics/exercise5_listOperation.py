@@ -1,4 +1,5 @@
-# Ask a user to enter a list of strings. Create a new list that consists of those strings with their first characters removed.
+# Ask a user to enter a list of strings. Create a new list 
+# that consists of those strings with their first characters removed.
 
 entered_string= input("enter a list of strings").split()
 print(entered_string)

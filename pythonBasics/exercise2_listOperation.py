@@ -1,4 +1,4 @@
-# Q2. Ask a use to enter a sentence
+# Q2. Ask a user to enter a sentence
 # (a) Print out the third word of sentence
 # (b) Print out every second word of sentence
 
