@@ -1,4 +1,4 @@
-# for num in range(101):
+# Armstrong number
 num = int(input("enter a number"))
 sum = 0
 order = len(str(num))
