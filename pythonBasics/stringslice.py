@@ -8,3 +8,5 @@ entered_string=input("enter fullname:")
 for i in entered_string.split():
     entered_string=entered_string.replace(i,i.capitalize())
 print(entered_string)
+
+
