@@ -58,3 +58,4 @@ for i in empty_list.values():
     listof_winning.append(i[0])
 print("list whose entries are the number of wins of each team: ",listof_winning)
 
+# listof_winning=[listof_winning.append(i[0]) for i in empty_list.values()]
