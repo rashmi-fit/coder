@@ -6,9 +6,9 @@ differ in exactly one letter, like bike/hike or water/wafer.
 
 
 def one_way(string1, string2):
-    if len(string1) == len(string2):
+    for i in len(string1):
         if string1 == string2:
-            print("strng matches")
+            print("string matches")
         else:
             print("doesnot match")
         return True
