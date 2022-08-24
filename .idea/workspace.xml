@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="RM- Creating new folder for learning spark">
-      <change afterPath="$PROJECT_DIR$/learningSpark/sparkSQL.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learningSpark/titanic.csv" afterDir="false" />
+    <list default="true" id="5a4ee54b-7feb-401d-9f56-ede227e633d8" name="Changes" comment="[RM] Learning spark and creating dataframe and accessing through sql queries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learningSpark/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/learningSpark/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learningSpark/sparkSQL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/learningSpark/sparkSQL.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661282939926</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[RM] Learning spark and creating dataframe and accessing through sql queries">
+      <created>1661289424141</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661289424141</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +286,7 @@
     <MESSAGE value="RM- homeprice prediction using linear regression model" />
     <MESSAGE value="RM- Added apriori algorithm example" />
     <MESSAGE value="RM- Creating new folder for learning spark" />
-    <option name="LAST_COMMIT_MESSAGE" value="RM- Creating new folder for learning spark" />
+    <MESSAGE value="[RM] Learning spark and creating dataframe and accessing through sql queries" />
+    <option name="LAST_COMMIT_MESSAGE" value="[RM] Learning spark and creating dataframe and accessing through sql queries" />
   </component>
 </project>
